@@ -9,3 +9,4 @@ nginx:latest
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 redis:6-alpine
+elasticsearch:7.7.0
