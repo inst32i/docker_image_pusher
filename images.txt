@@ -11,3 +11,5 @@ semitechnologies/weaviate:1.19.0
 redis:6-alpine
 elasticsearch:8.10.2
 kibana:8.10.2
+langflowai/langflow:latest
+postgres:16
