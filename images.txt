@@ -19,3 +19,4 @@ php:latest
 mysql:latest
 redis:latest
 hightman/xunsearch:latest
+xiaochong0302/php:ctc
