@@ -15,7 +15,7 @@ docker.io/vesoft/nebula-storaged:v3.8.0
 docker.io/vesoft/nebula-graphd:v3.8.0
 docker.io/vesoft/nebula-console:v3.6.0
 mongo
-ctc/php:latest
-ctc/mysql:latest
-ctc/redis:latest
-ctc/xunsearch:latest
+php:latest
+mysql:latest
+redis:latest
+xunsearch:latest
