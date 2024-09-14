@@ -18,4 +18,4 @@ mongo
 php:latest
 mysql:latest
 redis:latest
-xunsearch:latest
+hightman/xunsearch:latest
