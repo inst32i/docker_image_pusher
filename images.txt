@@ -2,7 +2,6 @@ langgenius/dify-api:0.11.0
 langgenius/dify-api:0.11.0
 langgenius/dify-web:0.11.0
 postgres:15-alpine
-redis:6-alpine
 langgenius/dify-sandbox:0.2.10
 ubuntu/squid:latest
 certbot/certbot
@@ -11,3 +10,11 @@ semitechnologies/weaviate:1.19.0
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 ollama/ollama:latest
 xprobe/xinference:latest
+mysql:8.0
+redis:7.0.4
+onlyoffice/documentserver:7.1.1
+dataelement/bisheng-backend:v0.3.7.dev1
+dataelement/bisheng-frontend:v0.3.7.dev1
+bitnami/elasticsearch:8.12.0
+quay.io/coreos/etcd:v3.5.5
+milvusdb/milvus:v2.3.3
