@@ -1,6 +1,5 @@
-langgenius/dify-api:0.11.2
-langgenius/dify-api:0.11.2
-langgenius/dify-web:0.11.2
+langgenius/dify-api:0.13.2
+langgenius/dify-web:0.13.2
 postgres:15-alpine
 langgenius/dify-sandbox:0.2.10
 ubuntu/squid:latest
@@ -18,3 +17,5 @@ dataelement/bisheng-frontend:v0.3.7.dev1
 bitnami/elasticsearch:8.12.0
 quay.io/coreos/etcd:v3.5.5
 milvusdb/milvus:v2.3.3
+pgvector/pgvector:pg17
+supersonicbi/supersonic:latest
