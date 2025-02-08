@@ -1,5 +1,5 @@
-langgenius/dify-api:0.15.2
-langgenius/dify-web:0.15.2
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
 postgres:15-alpine
 langgenius/dify-sandbox:0.2.10
 ubuntu/squid:latest
