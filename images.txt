@@ -21,3 +21,4 @@ pgvector/pgvector:pg17
 supersonicbi/supersonic:latest
 chromadb/chroma:0.5.3
 ollama/ollama:latest
+vllm/vllm-openai:latest
