@@ -1,1 +1,1 @@
-ghcr.io/ggerganov/llama.cpp:full-cuda
+approachingai/ktransformers:0.1.1
