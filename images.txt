@@ -1,1 +1,1 @@
-nvidia/cuda:12.6.3-cudnn-devel-ubuntu24.04
+docker pull approachingai/ktransformers:0.2.1
