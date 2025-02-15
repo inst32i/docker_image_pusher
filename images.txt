@@ -1,1 +1,1 @@
-docker pull approachingai/ktransformers:0.2.1
+approachingai/ktransformers:0.2.1
