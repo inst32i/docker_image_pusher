@@ -1,1 +1,1 @@
-approachingai/ktransformers:0.2.1
+xprobe_xinference/xinference:latest
