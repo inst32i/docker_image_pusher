@@ -1,5 +1,1 @@
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.3-local
-semitechnologies/weaviate:1.19.0
+langgenius/qdrant:v1.7.3
