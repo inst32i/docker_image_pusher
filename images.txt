@@ -1,5 +1,3 @@
-langgenius/dify-api:1.1.0
-langgenius/dify-web:1.1.0
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
 langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.5-local
-tjbtech1/metachain:amd64_latest
