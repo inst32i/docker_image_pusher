@@ -1,3 +1,4 @@
-langgenius/dify-api:1.1.2
-langgenius/dify-web:1.1.2
-langgenius/dify-plugin-daemon:0.0.6-local
+langgenius/dify-api:1.2.0
+langgenius/dify-web:1.2.0
+langgenius/dify-plugin-daemon:0.0.7-local
+minio/minio:RELEASE.2023-03-20T20-16-18Z
