@@ -1,1 +1,1 @@
-rocm/dev-ubuntu-22.04:5.4-complete
+rocm/dev-ubuntu-22.04:5.7-complete
