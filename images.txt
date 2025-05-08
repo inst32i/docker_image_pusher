@@ -1,1 +1,1 @@
-image.sourcefind.cn:5000/dcu/admin/base/pytorch:2.3.0-py3.10-dtk24.04.3-ubuntu20.04
+sandai/magi:latest
