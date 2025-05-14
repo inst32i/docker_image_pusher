@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:full-cuda
+ollama/ollama:latest
