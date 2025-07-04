@@ -1,1 +1,5 @@
-pytorch/pytorch:1.13.1-cuda11.6-cudnn8-runtime
+langgenius/dify-api:1.5.1
+langgenius/dify-web:1.5.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.3-local
+semitechnologies/weaviate:1.19.0
