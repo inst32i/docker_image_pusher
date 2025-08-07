@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+filebrowser/filebrowser:latest
