@@ -1,1 +1,1 @@
-mineru-sglang:latest
+alexsuntop/mineru-sglang:latest
