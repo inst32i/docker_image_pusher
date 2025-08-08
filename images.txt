@@ -1,1 +1,1 @@
-filebrowser/filebrowser:latest
+mineru-sglang:latest
