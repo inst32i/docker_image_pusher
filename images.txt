@@ -1,1 +1,5 @@
-lmsysorg/sglang:v0.4.9.post6-cu126
+langgenius/dify-api:1.7.1
+langgenius/dify-web:1.7.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.2.0-local
+semitechnologies/weaviate:1.19.0
