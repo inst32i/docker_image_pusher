@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+mineru-sglang:latest
