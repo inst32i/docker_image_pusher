@@ -1,1 +1,1 @@
-mineru-sglang:latest
+lmsysorg/sglang:latest
