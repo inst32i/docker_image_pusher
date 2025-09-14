@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest
+xprobe/xinference:nightly-main-cpu
