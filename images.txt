@@ -1,1 +1,3 @@
-xprobe/xinference:nightly-main-cpu
+langgenius/dify-api:2.0.0-beta.2
+langgenius/dify-web:2.0.0-beta.2
+langgenius/dify-plugin-daemon:0.3.0b1-local
