@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+starrocks/allin1-ubuntu:branch-3.0-0afb97bbf
