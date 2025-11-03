@@ -1,1 +1,1 @@
-ghcr.io/hkuds/lightrag:v1.4.9.7
+ollama/ollama:latest
