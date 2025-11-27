@@ -1,1 +1,1 @@
-dataease/sqlbot
+vllm/vllm-openai:latest
