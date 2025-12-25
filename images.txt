@@ -1,1 +1,1 @@
-yusiwen/llama.cpp:latest
+qdrant/qdrant:latest
