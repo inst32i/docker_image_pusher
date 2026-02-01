@@ -1,1 +1,1 @@
-qdrant/qdrant:latest
+redis/redis-stack-server:latest
