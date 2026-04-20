@@ -1,1 +1,8 @@
-ollama/ollama:latest
+postgres:15-alpine
+redis:6-alpine
+semitechnologies/weaviate:1.27.0
+ubuntu/squid:latest
+langgenius/dify-sandbox:0.2.14
+langgenius/dify-plugin-daemon:0.5.3-local
+langgenius/dify-api:1.13.3
+langgenius/dify-web:1.13.3
