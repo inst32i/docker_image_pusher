@@ -1,1 +1,2 @@
-ollama/ollama:latest
+ghcr.io/nicedayzhu/camofox-browser:latest
+shahradel/torproxy:latest
